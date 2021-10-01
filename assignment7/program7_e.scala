@@ -9,7 +9,6 @@ for(i<-0 until z.length)
 {
 z(i)=scala.io.StdIn.readInt()
 }
-println("Array is ...")
 var j=0
 var k=0
 var large=0
