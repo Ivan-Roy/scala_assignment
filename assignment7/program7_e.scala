@@ -27,9 +27,6 @@ for(j<-0 until z.length)
 	} 
 }
 var l=0
-for(l<-0 until z.length)
-{
-println(z(l))
-}
+println("Minimum element is "+z(l))
 }
 }
